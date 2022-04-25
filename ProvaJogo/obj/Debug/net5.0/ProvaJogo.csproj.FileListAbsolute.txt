@@ -1,0 +1,16 @@
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\bin\Debug\net5.0\ProvaJogo.exe
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\bin\Debug\net5.0\ProvaJogo.deps.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\bin\Debug\net5.0\ProvaJogo.runtimeconfig.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\bin\Debug\net5.0\ProvaJogo.runtimeconfig.dev.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\bin\Debug\net5.0\ProvaJogo.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\bin\Debug\net5.0\ProvaJogo.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\ProvaJogo.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\ProvaJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\ProvaJogo.AssemblyInfoInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\ProvaJogo.AssemblyInfo.cs
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\ProvaJogo.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\ProvaJogo.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\refint\ProvaJogo.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\ProvaJogo.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\ProvaJogo.genruntimeconfig.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaJogo\obj\Debug\net5.0\ref\ProvaJogo.dll

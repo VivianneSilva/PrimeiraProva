@@ -1,0 +1,16 @@
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\bin\Debug\net5.0\ProvaFarmacia.exe
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\bin\Debug\net5.0\ProvaFarmacia.deps.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\bin\Debug\net5.0\ProvaFarmacia.runtimeconfig.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\bin\Debug\net5.0\ProvaFarmacia.runtimeconfig.dev.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\bin\Debug\net5.0\ProvaFarmacia.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\bin\Debug\net5.0\ProvaFarmacia.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\ProvaFarmacia.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\ProvaFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\ProvaFarmacia.AssemblyInfoInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\ProvaFarmacia.AssemblyInfo.cs
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\ProvaFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\ProvaFarmacia.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\refint\ProvaFarmacia.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\ProvaFarmacia.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\ProvaFarmacia.genruntimeconfig.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaFarmacia\obj\Debug\net5.0\ref\ProvaFarmacia.dll

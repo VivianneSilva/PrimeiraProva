@@ -1,0 +1,16 @@
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\bin\Debug\net5.0\ProvaVendaseComissoes.exe
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\bin\Debug\net5.0\ProvaVendaseComissoes.deps.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\bin\Debug\net5.0\ProvaVendaseComissoes.runtimeconfig.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\bin\Debug\net5.0\ProvaVendaseComissoes.runtimeconfig.dev.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\bin\Debug\net5.0\ProvaVendaseComissoes.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\bin\Debug\net5.0\ProvaVendaseComissoes.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\ProvaVendaseComissoes.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\ProvaVendaseComissoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\ProvaVendaseComissoes.AssemblyInfoInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\ProvaVendaseComissoes.AssemblyInfo.cs
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\ProvaVendaseComissoes.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\ProvaVendaseComissoes.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\refint\ProvaVendaseComissoes.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\ProvaVendaseComissoes.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\ProvaVendaseComissoes.genruntimeconfig.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\Cast\Aulas\PrimeiraProvaTecnica\ProvaVendaseComissoes\ProvaVendaseComissoes\obj\Debug\net5.0\ref\ProvaVendaseComissoes.dll
